@@ -2854,6 +2854,16 @@
 							],
 							"type": "string"
 						},
+						"mtasa": {
+							"default": "default",
+							"description": "%config.runtime.builtin.mtasa%",
+							"enum": [
+								"default",
+								"enable",
+								"disable"
+							],
+							"type": "string"
+						},
 						"os": {
 							"default": "default",
 							"description": "%config.runtime.builtin.os%",

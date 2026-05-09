@@ -193,6 +193,7 @@
     "config.runtime.builtin.jit.profile": "TODO: Needs documentation",
     "config.runtime.builtin.jit.util": "TODO: Needs documentation",
     "config.runtime.builtin.math": "TODO: Needs documentation",
+    "config.runtime.builtin.mtasa": "TODO: Needs documentation",
     "config.runtime.builtin.os": "TODO: Needs documentation",
     "config.runtime.builtin.package": "TODO: Needs documentation",
     "config.runtime.builtin.string": "TODO: Needs documentation",

@@ -3054,6 +3054,16 @@
                     ],
                     "type": "string"
                 },
+                "mtasa": {
+                    "default": "default",
+                    "description": "TODO: Needs documentation",
+                    "enum": [
+                        "default",
+                        "enable",
+                        "disable"
+                    ],
+                    "type": "string"
+                },
                 "os": {
                     "default": "default",
                     "description": "TODO: Needs documentation",
