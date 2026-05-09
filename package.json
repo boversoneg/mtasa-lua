@@ -3299,7 +3299,7 @@
 		"languages": [
 			{
 				"aliases": [
-					"Lua"
+					"MTA:SA Lua"
 				],
 				"extensions": [
 					".lua"
